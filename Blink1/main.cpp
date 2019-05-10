@@ -18,7 +18,7 @@ int main(void)
 		digitalWrite(LED, HIGH);  // Activé
 		delay(500); // ms
 		digitalWrite(LED, LOW);	  // Désactivé
-		delay(500);
+		delay(500); // ms
 	}
 	return 0;
 }
